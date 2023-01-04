@@ -1,2 +1,2 @@
-# oms_golang
-oms golang
+# oms-golang
+oms-golang
